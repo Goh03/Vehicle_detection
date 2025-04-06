@@ -1,6 +1,11 @@
-# Installation
+# Vehicle detection
 
-Hmmmmmm
+## Dataset
+This research utilizes the vehicle detection dataset from the SOICT Hackathon 2024 Competition hosted by AI-Hub. The dataset is designed to evaluate object detection models under real-world conditions, focusing on the challenges posed by lighting variations between daytime and nighttime. You can access the dataset here:
+https://aihub.ml/competitions/755.
+
+Additionally, the dataset, along with the split data, enhanced images, weights, and yaml files, is available on Kaggle:
+https://www.kaggle.com/datasets/bchutrn/dataset.
 
 ## Yolo 
 
